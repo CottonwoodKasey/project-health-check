@@ -69,3 +69,7 @@ Project Health Check will be successful if it helps organizations:
 In the future, Project Health Check will become an intelligent organizational learning platform that helps teams understand project health in real time and provides guidance for improving outcomes.
 
 It will help organizations move from reacting to problems toward continuously learning and adapting.
+
+## 9. Intended Benefits
+
+Project Health Check supports everyone who contributes to an organization’s work by creating a continuous learning loop where experiences, challenges, and insights are shared, understood, and transformed into collective knowledge and meaningful improvements.
